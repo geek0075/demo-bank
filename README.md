@@ -39,3 +39,24 @@ Or create new accounts on the web site.
 05. Run the following command, $ npm run start.
 06. You can now open http://localhost:3000 on your browser. The port to use will be displayed from previous step results.
 07. Proceed as described above in 'How to run the App on Heroku'.
+
+## Application Backend Dependency
+
+This application depends on a NestJS API that is hosted on Heroku at the following url address:
+
+https://vm-bank-api.herokuapp.com/
+
+And is described by Swagger here:
+
+https://vm-bank-api.herokuapp.com/api/
+
+So you need to make sure that the back end API is running in order to run the front end application. The back end API source code is available on gitlab at:
+
+https://gitlab.com/geek0075/veegil-bank-api
+
+## Stay in touch
+
+Kayode Taiwo - kay_taylor@outlook.com.
+
+Please send your comments and questions to me at the email above. Thank you and God bless.
+
