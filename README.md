@@ -1,3 +1,22 @@
+## Kayode Taiwo
+
+Fictitious Banking Application
+
+https://vm-bank.herokuapp.com/
+
+User Accounts
+
+phone:0822340967, password:tunde
+
+phone:0763339012, password:kayode
+
+phone:0967120276, password:gbenga
+
+phone:0345230456, password:theophilus
+
+Or create new accounts on the web site.
+
+
 # VmBank
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.1.
