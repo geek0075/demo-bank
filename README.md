@@ -4,7 +4,7 @@ Fictitious Banking Application. This application was generated with the Angular 
 
 https://vm-bank.herokuapp.com/
 
-## User Accounts
+## User accounts
 
 phone:0822340967, password:tunde
 
@@ -40,7 +40,7 @@ Or create new accounts on the web site.
 06. You can now open http://localhost:3000 on your browser. The port to use will be displayed from previous step results.
 07. Proceed as described above in 'How to run the App on Heroku'.
 
-## Application Backend Dependency
+## Application backend dependency
 
 This application depends on a NestJS API that is hosted on Heroku at the following url address:
 
