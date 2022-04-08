@@ -4,7 +4,7 @@ Fictitious Banking Application. This application was generated with the Angular 
 
 https://vm-bank.herokuapp.com/
 
-User Accounts
+## User Accounts
 
 phone:0822340967, password:tunde
 
